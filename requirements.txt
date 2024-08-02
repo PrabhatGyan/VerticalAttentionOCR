@@ -1,10 +1,10 @@
 absl-py==0.11.0
 anykeystore==0.2
-apex==0.1
+#apex==0.1
 cachetools==4.1.1
 certifi==2020.11.8
 chardet==3.0.4
-cryptacular==1.5.5
+# cryptacular==1.5.5
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0

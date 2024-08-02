@@ -520,5 +520,5 @@ if __name__ == "__main__":
     # format_RIMES_paragraph()
 
     # format_READ2016_line()
-    # format_READ2016_paragraph()
+    format_READ2016_paragraph()
 
