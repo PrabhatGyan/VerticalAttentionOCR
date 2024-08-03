@@ -513,12 +513,12 @@ def format_READ2016_paragraph():
 
 if __name__ == "__main__":
 
-    format_IAM_line()
+    # format_IAM_line()
     # format_IAM_paragraph()
 
     # format_RIMES_line()
     # format_RIMES_paragraph()
 
-    # format_READ2016_line()
-    format_READ2016_paragraph()
+    format_READ2016_line()
+    # format_READ2016_paragraph()
 
